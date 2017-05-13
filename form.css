@@ -1,0 +1,48 @@
+.form-control{
+	margin-left: 30%;
+	margin-bottom: 10px;
+}
+.form-heading{
+	text-align:center;
+}
+.form-control-gender{
+	margin-left:30%;
+	margin-bottom: 10px;
+}
+.form-control-adress{
+	margin-left: 30%
+	width:40%;
+	margin-bottom: 10px;
+}
+.form-control-other-adress{
+	margin-left:30%;
+	margin-bottom: 10px;
+}
+.form-control-postal{
+	margin-left:30%;
+	margin-bottom: 10px;
+}
+.form-control-email{
+	margin-left: 40%;
+	margin-bottom: 10px;
+	
+}
+.form-control-add{
+	margin-left: 40%;
+	margin-bottom: 10px;
+}
+.form-control-membership{
+	margin-left: 40%;
+	margin-bottom: 10px;
+}
+.form-control-submition{
+	margin-left: 40%;
+	margin-bottom: 10px;
+}
+.form-heading{
+	text-align: center;
+	color: #524747;
+	 color: #524747;
+   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+   font-size: 23px
+}

@@ -1,0 +1,53 @@
+.img-containers{
+	width: 32%;
+	display: inline-block;
+  	margin:0 auto;
+    text-align: center;
+   color: #524747;
+   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+   background-color: #b4b6d9;
+   
+}
+
+@media (max-width: 767px) {
+	.img-containers{
+	width: 100%;
+    display: inline-block;
+    margin: 0 auto; 
+  text-align: center;
+}
+  header{
+  	text-align: center;
+
+  }
+  nav{
+  	text-align: center;
+  }
+} 
+
+@media  (min-width: 768px) and (max-width:991px) {
+	.img-containers{
+	width: 48%;
+    display: inline-block;
+    margin: 0 auto; 
+    text-align: center;
+	}
+	 header{
+  	text-align: center;
+
+  }
+ 
+  
+  
+} 
+
+.responsive-image{
+	display: block;
+	height: auto;
+	max-width: 100%;
+  	margin:0 auto;
+
+}
+ h3{
+   text-decoration: underline;
+   color: #524747;}

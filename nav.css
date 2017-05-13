@@ -1,0 +1,23 @@
+
+li{
+	display: inline-block;
+
+}
+a{
+	color:white;
+	text-decoration: none;
+}
+#places{
+	height: 90%;
+}
+
+
+}
+.custom-item{
+	margin-right: 10px;
+}
+.main-navbar{
+	width:90%;
+	margin-left:5%
+	background-color:#DCDCDC
+ }
